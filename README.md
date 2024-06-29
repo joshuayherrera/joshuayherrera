@@ -58,8 +58,10 @@
 <br>
 
 - **Extras**:
-    [![My Skills](https://skillicons.dev/icons?i=bash,terminal,css,html,discord,gmail,notion)](https://skillicons.dev)
+  
+    [![My Skills](https://skillicons.dev/icons?i=bash,powershell,css,html,discord,gmail,notion)](https://skillicons.dev)
 
+<br>
 
 </p>
 
