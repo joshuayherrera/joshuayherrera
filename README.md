@@ -47,7 +47,7 @@
 
 - **Databases**:
 
-+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
 
 <br>
 
