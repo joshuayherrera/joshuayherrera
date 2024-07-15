@@ -35,7 +35,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Programming Languages**:
     
     [![My Skills](https://skillicons.dev/icons?i=js,java,py,php)](https://skillicons.dev)
 
@@ -44,7 +44,7 @@
 
 - **Databases**:
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb)](https://skillicons.dev)
 
 <br>
 
