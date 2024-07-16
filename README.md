@@ -37,7 +37,7 @@
 
 - **Programming Languages**:
     
-    [![My Skills](https://skillicons.dev/icons?i=js,java,py,php)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,php,java)](https://skillicons.dev)
 
 
 <br>
@@ -50,13 +50,13 @@
 
 - **Softwares and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,tensorflow,sklearn)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,express,tailwind,postman,linux,docker,vscode,git,github,css,html)](https://skillicons.dev)
 
 <br>
 
 - **Extras**:
   
-    [![My Skills](https://skillicons.dev/icons?i=bash,powershell,css,html,discord,gmail,notion)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,bash,powershell,discord,gmail,notion)](https://skillicons.dev)
 
 <br>
 
