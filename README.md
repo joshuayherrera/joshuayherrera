@@ -17,8 +17,8 @@
 
 - A passionate Self-taught developer
 - Studing a new language like hobby
-- Currently learning AI programming by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/joshuayherrera)
+- Currently working in personal 
+- I’m currently open for an Intern or a new job opportunity, this is [my portfolio](https://joshuayherrera.github.io/personal-portfolio/)
 
 <br><br>
 
