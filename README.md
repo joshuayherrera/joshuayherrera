@@ -2,23 +2,19 @@
 <h1 align="center"><b>Hi , I'm Joshua Alvarez</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Discipline+is+everything...&hearts;++;Self-taught+Frontend+Developer+⚙;Computer+Science+Student+👨‍🎓;Apassionate+by+technology+👨‍💻;Active+Learner/Researcher+📚;Love+to+learn+new+stuffs...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Discipline+is+everything...💪;Frontend+Developer+✨;Backend+Developer+🧠🖥;Full+Stack+Developer+🚀;Software+Engineer+👨‍🎓;Apassionate+by+technology+👨‍💻;Active+Learner/Researcher+📚;Love+to+learn+new+stuffs...<3"></a>
 </p>
 
+<br>
+
+## 👨‍💻 About Me
 
 <br>
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught developer
-- Studing a new language like hobby
-- Currently working in personal 
-- I’m currently open for an Intern or a new job opportunity, this is [my portfolio](https://joshuayherrera.github.io/personal-portfolio/)
+- A passionate Self-taught developer 📚
+- Studying new AI stuff 👨‍💻
+- Currently working in personal projects! 🚀
+- If you're interesting in my job, here it's [my portfolio](https://joshuayherrera.com)
 
 <br><br>
 
@@ -35,30 +31,33 @@
 
 <p align="center">
 
-- **Programming Languages**:
+- **Frontend Tools**:
     
-    [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,php,java)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,react,nextjs,vite,tailwind)](https://skillicons.dev)
 
+<br>
+
+- **Backend Tools**:
+
+  [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,postman,docker)](https://skillicons.dev)
 
 <br>
 
 - **Databases**:
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase)](https://skillicons.dev)
 
 <br>
 
-- **Softwares and Tools**:
+- **Teamwork**:
 
-    [![My Skills](https://skillicons.dev/icons?i=react,express,tailwind,postman,linux,docker,vscode,git,github,css,html)](https://skillicons.dev)
-
-<br>
-
-- **Extras**:
-  
-    [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,bash,powershell,discord,gmail,notion)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,discord,gmail,notion,)](https://skillicons.dev)	
 
 <br>
+
+- **Package Managers**:
+
+    [![My Skills](https://skillicons.dev/icons?i=bun,npm,pnpm)](https://skillicons.dev)
 
 </p>
 
