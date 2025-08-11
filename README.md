@@ -10,7 +10,7 @@
 - A passionate Self-taught developer 📚
 - Studying new AI stuff 👨‍💻
 - Currently working in personal projects! 🚀
-- If you're interesting in my job, here it's [my portfolio](https://joshuayherrera.com)
+- If you're interesting in my job, here it's [my portfolio](https://joshuaherrera.com)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
