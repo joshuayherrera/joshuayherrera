@@ -15,7 +15,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
     
-[![](https://nirzak-streak-stats.vercel.app/?user=lventocillap&theme=react&hide_border=false)
+[![](https://nirzak-streak-stats.vercel.app/?user=joshuayherrera&theme=react&hide_border=false)
     
 </div>
 <div align='center'>
