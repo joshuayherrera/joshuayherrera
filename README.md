@@ -13,15 +13,15 @@
 - If you're interesting in my job, here it's [my portfolio](https://joshuaherrera.com)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<p align="center">
-  
-| GitHub Stats | Top Languages |
-|--------------|----------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=joshuayherrera&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuayherrera&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" width="350"/> |
+<div align="center">
+    
+[![](https://nirzak-streak-stats.vercel.app/?user=lventocillap&theme=react&hide_border=false)
+    
+</div>
+<div align='center'>
+	| <img src="https://github-readme-stats.vercel.app/api?username=joshuayherrera&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuayherrera&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" width="350"/> |
+</div>
 
-</p>
-
-<br>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
