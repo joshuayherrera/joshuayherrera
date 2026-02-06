@@ -1,16 +1,16 @@
 
-<h1 align="center"><b>Hi , I'm Joshua Alvarez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Joshua Alvarez Here!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Discipline+is+everything...💪;Frontend+Developer+✨;Software+Engineer+👨‍🎓;Apassionate+by+technology+👨‍💻;Active+Learner/Researcher+📚;Love+to+learn+new+stuffs...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Discipline+is+everything...💪;Web+Developer+✨;AI+Expert+👨‍🎓;Apassionate+by+technology+👨‍💻;Active+Learner/Researcher+📚;Love+to+learn+new+stuffs...<3"></a>
 </p>
 
 ## 👨‍💻 About Me
 
-- A passionate Self-taught developer 📚
-- Studying new AI stuff 👨‍💻
+- Founder of KTS (Kasa Tech Solutions)
+- AI is the present and future of technology, accept it is key.
 - Currently working in personal projects! 🚀
-- If you're interesting in my job, here it's [my portfolio](https://joshuaherrera.com)
+- If you're interesting in my job, here it's [my portfolio](https://kasa-tech-solutions.vercel.app)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
