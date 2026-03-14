@@ -10,7 +10,7 @@
 - Founder of KTS (Kasa Tech Solutions)
 - AI is the present and future of technology, accept it is key.
 - Currently working in personal projects! 🚀
-- If you're interesting in my job, here it's [my portfolio](https://kasa-tech-solutions.vercel.app)
+- If you're interesting in my job, here it's [my portfolio](https://www.kasatechsolutions.com)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
