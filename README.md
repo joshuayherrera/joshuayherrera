@@ -33,7 +33,7 @@
 
 - **Frontend Tools**:
     
-    [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,react,nextjs,vite,tailwind)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,react,nextjs,vite,tailwind,astro,vercel)](https://skillicons.dev)
 
 <br>
 
