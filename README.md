@@ -6,10 +6,9 @@
 
 ## 👨‍💻 About Me
 
-- Founder of KTS (Kasa Tech Solutions)
 - AI is the present and future of technology; embracing it is key.
 - Currently working on personal projects! 🚀
-- If you're interested in my work, here is [my portfolio](https://www.kasatechsolutions.com)
+- If you're interested in my work, here is [my portfolio](https://www.joshalvarez.site)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 [![GitHub Streak](https://streak-stats.demolab.com?user=joshuayherrera&theme=highcontrast)](https://git.io/streak-stats)<br>
