@@ -22,19 +22,19 @@
 
 - **Frontend Tools**:
     
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,react,nextjs,vite,tailwind,astro,vercel)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,figma,react,nextjs,angular,vite,astro,vercel)](https://skillicons.dev)
 
 <br>
 
 - **Backend Tools**:
 
-  [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,postman,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,cs,dotnet,kotlin,postman,docker,gcp)](https://skillicons.dev)
 
 <br>
 
 - **Databases**:
 
-  [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,sqlserver)](https://skillicons.dev)
 
 <br>
 
